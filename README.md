@@ -22,7 +22,7 @@ The tool supports configurable vulnerability definitions with:
 - sinks
 - implicit-flow handling
 
-The included `5_patterns.json` file defines patterns for:
+The included `5_patterns.json` file defines example patterns for:
 
 - XSS
 - SQL injection
