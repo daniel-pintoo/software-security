@@ -80,7 +80,7 @@ This project demonstrates:
 - practical static program analysis
 - reasoning about taint propagation and sanitization
 - secure software concepts applied to Python web vulnerabilities
-- translating a formal-ish security specification into working code
+- translating a formal security specification into working code
 
 ## Possible Improvements
 
